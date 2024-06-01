@@ -1,0 +1,7 @@
+"chedarabox"
+{
+	"base"		"sandbox"
+	"title"		"ChedaraBox"
+	"maps"		""
+	"menusystem"	"1"
+}
