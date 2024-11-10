@@ -11,4 +11,4 @@ https://www.youtube.com/watch?v=1o0hFsJw1Eo
 сборка выложена без аттачментов, что бы получить аттачменты нужно покупать фулл сборку
 контент: https://steamcommunity.com/sharedfiles/filedetails/?id=3206947542
 
-плыв
+плывплывплыв
